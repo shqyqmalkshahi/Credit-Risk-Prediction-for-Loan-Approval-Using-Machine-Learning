@@ -1,0 +1,30 @@
+Dataset Information
+Source
+
+The dataset used in this project is the German Credit Dataset, a publicly available dataset commonly used for credit risk modeling and classification tasks.
+
+Description
+
+The dataset contains information on 1,000 loan applicants, including both financial and demographic attributes. It is used to classify applicants into two categories:
+
+Good credit risk
+Bad credit risk
+Features
+
+Key variables include:
+
+Age
+Job
+Housing status
+Saving accounts
+Checking accounts
+Credit amount
+Loan duration
+Purpose of loan
+Target Variable
+Risk
+0 → Good (low risk)
+1 → Bad (high risk)
+Notes
+The dataset contains missing values in some financial fields (e.g., saving and checking accounts), which were handled during preprocessing.
+This dataset is widely used for educational and benchmarking purposes in machine learning.
